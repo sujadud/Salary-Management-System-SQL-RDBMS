@@ -106,4 +106,3 @@ Select * From employee
 Select * From salary
 Select * From allowance
 Select * From bonus
-Select * From department
