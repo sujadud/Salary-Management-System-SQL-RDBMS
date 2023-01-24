@@ -29,13 +29,6 @@ Create Table employee(
 	PRIMARY KEY(emp_id)
 );
 
- Create Table department(
-	emp_id int NOT NULL,
-	dep_name Varchar(20),
-	deg_name Varchar(20),
-	join_date date
- );
- 
  Create Table salary(
 	emp_id int NOT NULL,
 	emp_fname VARCHAR(10),
