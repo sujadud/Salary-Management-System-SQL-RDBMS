@@ -9,11 +9,9 @@ Companies, it may be public or private increasing to fast with population growth
 
 List of Tables:
 1. Employee
-3. Salary
-4. Allowance
-5. Bonus
-6. Payment Item
-7. Payment History
+2. Salary
+3. Allowance
+4. Bonus
 
 Main Features:
 This is a project that I have added queries of different types including.
