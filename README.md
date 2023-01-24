@@ -9,7 +9,6 @@ Companies, it may be public or private increasing to fast with population growth
 
 List of Tables:
 1. Employee
-2. Department
 3. Salary
 4. Allowance
 5. Bonus
@@ -24,13 +23,12 @@ This is a project that I have added queries of different types including.
 4.	Subquery
 5.	CASE Function
 6.	CTE
-7.	Store Procedure
-8.	Roll Up
-9.	View
-10.	Create Index
-11.	Marge Table
-12.	Create Function
-13.	Create Trigger
+7.	Roll Up
+8.	View
+9.	Create Index 
+10.	Store Procedure
+11.	Create Function
+12.	Create Trigger
 
 Objective:
 1.	Understand the system functionality and describe the main functions of the Salary Management system.
