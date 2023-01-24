@@ -17,7 +17,7 @@ List of Tables:
 7. Payment History
 
 Main Features:
-This is a project that I have added queries of different types including
+This is a project that I have added queries of different types including.
 1.	Joining with Where Clause
 2.	Joining with Group by & Having Clause
 3.	Joining with Order By
@@ -26,7 +26,7 @@ This is a project that I have added queries of different types including
 6.	CTE
 7.	Store Procedure
 8.	Roll Up
-9.	Rank
+9.	View
 10.	Create Index
 11.	Marge Table
 12.	Create Function
